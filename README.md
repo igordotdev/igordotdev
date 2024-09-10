@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Igor!</h1>
-<h3 align="center">42 Warsaw student</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igordotdev&label=Profile%20views&color=0e75b6&style=flat" alt="igordotdev" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igordotdev" alt="igordotdev" /></a> </p>
+<p align="left">Here's my brief appearance:</p>
 
-- 🔭 I’m currently working on [42 Minishell Project](https://github.com/MatriX1232/minishell)
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpkaTV0Z3FzNzBzNHZkeWhtNXNoaW1qZWo0d2U2OGVwemluOG44eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.webp"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igordotdev&show_icons=true&locale=en&layout=compact" alt="igordotdev" /></p>
+<br clear="both">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igordotdev&show_icons=true&locale=en" alt="igordotdev" /></p>
+<img align="left" src="https://profile-counter.glitch.me/igordotdev/count.svg?"  />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igordotdev&theme=dark" alt="igordotdev" /></p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=igordotdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igordotdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="smutcpp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://42born2code.slack.com/team/U06LLSS6C9G" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=(42%20Only)&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  </a>
+  <a href="nilcys" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/igordotdev/igordotdev/output/snake.svg" alt="Snake animation" />
+
+###
