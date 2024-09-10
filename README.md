@@ -1,16 +1,14 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Igor and I'm a 42 Student, from Warsaw, Poland</h2>
 
 ###
 
-<p align="left">Here's my brief appearance:</p>
+<p align="left">Brief appearance:</p>
 
 ###
 
 <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpkaTV0Z3FzNzBzNHZkeWhtNXNoaW1qZWo0d2U2OGVwemluOG44eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.webp"  />
 
 ###
-
-<br clear="both">
 
 <img align="left" src="https://profile-counter.glitch.me/igordotdev/count.svg?"  />
 
