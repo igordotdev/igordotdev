@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">Brief appearance:</p>
-
-###
-
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpkaTV0Z3FzNzBzNHZkeWhtNXNoaW1qZWo0d2U2OGVwemluOG44eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzryvxGeykOxeC0fWb/giphy.webp"  />
+<p align="left">Profile views:</p>
 
 ###
 
