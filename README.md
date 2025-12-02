@@ -6,14 +6,10 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/igordotdev/count.svg?"  />
-
-###
-
-<div align="right">
+<!-- <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=igordotdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igordotdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
