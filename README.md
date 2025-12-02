@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Profile views:</p>
+<!-- <p align="left">Profile views:</p> -->
 
 ###
 
