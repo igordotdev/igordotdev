@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Igor and I'm a 42 Student, from Warsaw, Poland</h2>
+<h2 align="left">Hi 👋! My name is Igor and I'm a 42 Warsaw Student, from Warsaw, Poland</h2>
 
 ###
 
